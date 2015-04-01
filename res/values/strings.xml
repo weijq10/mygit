@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">ActivityTest</string>
+    <string name="button_name">Button1</string>
+    <string name="button_name2">Button2</string>
+    <string name="button_name3">Button3</string>
+    <string name="itemname1">Add</string>
+    <string name="itemname2">Remove</string>
+
+</resources>
